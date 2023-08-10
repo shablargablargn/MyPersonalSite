@@ -1,3 +1,4 @@
+
 body{
     background-color:rgb(17, 126, 189);
     padding: 15px;
@@ -6,7 +7,6 @@ body{
 h1{
     color: white;
     text-shadow: 3px 1px 1px black;
-
 }
 
 div{
@@ -64,7 +64,6 @@ div{
 
 .Flint{
     max-height: 50%;
-
 }
 
 .Link2:link{
@@ -82,3 +81,4 @@ div{
 .Link2:active{
     color: rgb(255, 251, 0);
 }
+
