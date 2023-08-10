@@ -1,0 +1,18 @@
+.AbtMe, .Interests{
+    width: 50%;
+    max-height: 10%;
+    padding: 15px;
+}
+
+.row1{
+    width: 70%;
+}
+
+.Flint{
+    max-height: 50%;
+
+}
+
+.Favorites{
+    padding: 15px;
+}
